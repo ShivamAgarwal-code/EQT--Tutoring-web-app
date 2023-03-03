@@ -1,4 +1,4 @@
-# hackHarvard: Below is how to install our program
+# Pi-Network: Build a Web App for Millions of Users dashboard
 1. npm install
 2. npm run server
    npm run client
